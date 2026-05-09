@@ -163,7 +163,7 @@ O que ainda não entendi:
 Depois de finalizar, copie no Moodle:
 
 ```text
-Repositório:
-Commit final:
+Repositório: https://github.com/frndchagas-org/diagn-stico-de-retomada-teoria-da-computa-o-nascmentoluan/edit/main/README.md
+Commit final: Answering README.md activity
 Autoavaliação: nível atual, maior dificuldade e tópico que precisa ser retomado.
 ```
